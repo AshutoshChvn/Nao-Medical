@@ -1,7 +1,7 @@
 # ML_assignment
 ML assignment with Read.me File
 
-This project involves a Python-based solution using Django and Django REST Framework to extract blue-colored text from images. It processes input images to detect and extract only the blue text and returns the extracted text.
+This project involves a Python-based solution using Django and Django REST Framework to receive an audio file, transcribe it into text, translate the transcript into the required language, and then provide the translated transcript as an audio file.
 
 ***Prerequisites***
 
@@ -10,11 +10,10 @@ pip (Python package installer)
 Framework : Django
 
 **Input and Output Examples**
-Input Image
-Included a description and display an example of an input image here
-![Screenshot from 2024-10-05 17-54-36](https://github.com/user-attachments/assets/e56481cb-7953-487e-83c0-9615a8515cd1)
+Input I
+Included a Audio file and display transcripted output here:
+![Screenshot from 2024-11-23 14-21-39](https://github.com/user-attachments/assets/38808523-fcbe-4656-8372-04e905bdf18f)
 
-![Screenshot from 2024-10-07 10-50-02](https://github.com/user-attachments/assets/b091a9e7-3f1a-4a5e-a807-c5506f56214a)
 
 
 
