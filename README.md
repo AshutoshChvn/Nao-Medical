@@ -16,13 +16,8 @@ Included a Audio file and display transcripted output here:
 
 
 
-
-Output Image
-Included a description and display an example of the output processed image here.
-![processed_Screenshot from 2024-10-05 17-54-36](https://github.com/user-attachments/assets/11dfd812-ce5b-40ce-939d-b3e3ac39d384)
-
-![Screenshot from 2024-10-07 10-50-11](https://github.com/user-attachments/assets/5bbde9c0-fee6-42dd-8db2-6159bce25872)
-
+** Translates stored MP3 (audio) files into any selected language while preserving the original transcript and generating translated audio.
+** Utilizes Whisper for transcript generation and the Gemini API to correct grammatical errors in the text.
 
 *Requirements File*
 The requirements.txt file contains all necessary Python packages
