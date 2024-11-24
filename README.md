@@ -20,7 +20,8 @@ Included a Audio file and display transcripted output here:
 ** Utilizes Whisper for transcript generation and the Gemini API to correct grammatical errors in the text.
 
 *Requirements File*
-The requirements.txt file contains all necessary Python packages
+-The requirements.txt file contains all necessary Python packages
+-Gemini API key required 
 
 
 
