@@ -1,5 +1,5 @@
-# ML_assignment
-ML assignment with Read.me File
+# Gen-Ai (Audio Translation)
+# Read.me File
 
 This project involves a Python-based solution using Django and Django REST Framework to receive an audio file, transcribe it into text, translate the transcript into the required language, and then provide the translated transcript as an audio file.
 
